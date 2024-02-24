@@ -1,0 +1,128 @@
+body {
+    background-color: #f5ebdc !important;
+}
+
+.navbar-brand {
+    height: 60px !important;
+}
+
+.navbar-brand img {
+    height: 50px !important;
+    width: 100% !important;
+}
+
+.custome-btn-signup {
+    background-color: #d62300 !important;
+    color: #f5ebdc !important;
+    border-radius: 20px !important;
+    font-weight: 700 !important;
+    border: 2px solid #d62300 !important;
+    padding: 8px 16px !important;
+}
+
+.custome-btn-shopping {
+    background-color: #502314 !important;
+    border: 2px solid #502314 !important;
+    color: #f5ebdc !important;
+    border-radius: 20px !important;
+    font-weight: 700 !important;
+    padding: 8px 16px !important;
+}
+
+.Location-custom {
+    display: flex;
+    height: 50px;
+    align-items: center;
+    margin-top: 20px;
+    border-bottom: 2px solid #e2d4d0;
+    color: #502314;
+}
+
+.Location-custom-head {
+    margin-left: 10px;
+
+}
+
+
+#hero-section {
+    height: 400px;
+    margin-top: 50px;
+    color: #502314;
+    display: flex;
+    width: 100%;
+}
+
+#text-section-hero {
+    width: 100%;
+    height: 100%;
+}
+
+#text-section-hero h1 {
+    font-size: 5.0rem;
+    font-family: fantasy;
+}
+
+#first-button {
+    border: 2px solid #d62300;
+    background-color: #d62300;
+    color: #f5ebdc;
+    border-radius: 20px;
+    padding: 5px 15px;
+    width: 350px;
+    font-size: 1.3rem;
+}
+
+#second-button {
+    border: 2px solid #d62300;
+    background-color: #f5ebdc;
+    color: #d62300;
+    border-radius   : 20px;
+    padding: 5px 15px;
+    width: 350px;
+    font-size: 1.3rem;
+}
+
+#second-button i {
+    margin-right: 10px;
+}
+
+#first-button i {
+    margin-right: 10px;
+}
+
+
+#card-section-custom {
+    display: flex !important;
+    justify-content: center !important;
+    border-radius: 20px !important;
+
+}
+.col {
+    display: flex !important;
+    justify-content: center !important;
+    width: 700px !important;
+    border-radius: 200px !important;
+
+}
+
+.card-title {
+    color: #502314 !important;
+    font-weight: 900 !important;
+
+}
+
+.card-body {
+    color: #502314 !important;
+    padding: 20px !important;
+}
+
+.class-button-custom {
+    margin-left: 400px;
+    border: 2px solid #d62300;
+    color: #d62300;
+    background-color: #ffffff;
+    border-radius: 25px;
+    padding: 5px 10px;
+    font-weight: 800;
+    width: 200px;
+}
